@@ -1,7 +1,7 @@
 {
     "name": "com.TripleA.AnimationEvents.Editor",
     "rootNamespace": "TripleA",
-    "references": [],
+    "references": ["com.TripleA.AnimationEvents"],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
