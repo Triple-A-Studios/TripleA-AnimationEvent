@@ -1,6 +1,6 @@
-# Triple A Studios - Event Systems
-Event System for Unity using Scriptable objects to implement 
-Event Channel system.
+# Triple A Studios - Animation Events
+Animation Events for Unity 6 and above.
+Uses State-Machine behaviour to fire custom animation events rather than using animation events directly to give more control over the events.  
 
 ___
 
@@ -34,14 +34,8 @@ ___
 
 ## Issues
 
-No known issues as of 16 Mar 2025.
+No known issues as of 26 May 2025.
 
-___
-
-## Future updates
-
-Upcoming updates (as of 13 Jan 2025):
-- Add more event system like event bus.
 
 ___
 
