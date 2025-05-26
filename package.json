@@ -1,0 +1,22 @@
+{
+    "name": "com.triple-a-studios.event-systems",
+    "description": "Event System for Unity",
+    "version": "1.0.1",
+    "displayName": "TripleA - Event Systems",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems",
+    "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems/blob/main/CHANGELOG.md",
+    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems",
+    "dependencies": {},
+    "keywords": [
+        "Events System",
+        "Scriptable Objects Architecture",
+        "Events",
+        "Observer Pattern"
+    ],
+    "author": {
+        "name": "Triple-A-Studios",
+        "email": "ali.qadir.007@outlook.com",
+        "url": "https://github.com/Triple-A-Studios"
+    }
+}
