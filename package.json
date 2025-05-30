@@ -1,7 +1,7 @@
 {
-    "name": "com.triple-a-studios.event-systems",
+    "name": "com.triple-a-studios.animation-events",
     "description": "Improved Animation Events for Unity",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "TripleA - Improved Animation Events",
     "unity": "2021.3",
     "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-AnimationEvent/",
