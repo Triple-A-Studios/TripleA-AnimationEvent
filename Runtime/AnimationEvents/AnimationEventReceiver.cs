@@ -7,13 +7,20 @@ namespace TripleA.AnimationEvents
 	public abstract class AnimationEventReceiver : MonoBehaviour
 	{
 		[SerializeField] private List<AnimationEvent> m_eventList = new();
+
+		private bool m_eventFired;
 		
 		public virtual void OnAnimationEventTriggered(string eventName)
 		{
+			m_eventFired = false;
 			foreach (var @event in m_eventList.Where(@event => @event.eventName == eventName))
 			{
 				@event.onAnimationEvent?.Invoke();
+				m_eventFired = true;
 			}
+			
+			if (m_eventFired) return;
+			Debug.LogWarning($"Event {eventName} not found on {gameObject.name}", gameObject);
 		}
 	}
 }
