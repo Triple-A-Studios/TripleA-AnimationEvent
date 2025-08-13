@@ -1,43 +1,53 @@
 # Triple A Studios - Animation Events
-Animation Events for Unity 6 and above.
-Uses State-Machine behaviour to fire custom animation events rather than using animation events directly to give more control over the events.  
 
-___
+Animation Events for Unity 6 and above.
+Uses State-Machine behaviour to fire custom animation events rather than using animation events directly to give more control over the events.
+
+---
 
 ## Installation
+
 ### Method 1 (Recommended):
+
 Using Git Url:
+
 1. Copy the git URL.
 2. Open the package manager window in your unity project.
 3. Click on the little "+" icon in the top left corner and from the dropdown, select "Add package from git URL".
 4. Paste the URL, click "Add" button.
 
 ### Method 2 (Not Recommended):
+
 Cloning the git repository directly(gives access unreleased features and access to the branches in development)
+
 1. Copy the git URL.
 2. Clone the repository directly into your project.
 
-___
+---
+
+## Tutorial Video
+
+[![Watch the video](https://img.youtube.com/vi/wp4fa5d9GrM/maxresdefault.jpg)](https://youtu.be/wp4fa5d9GrM "Watch the video")
+
+---
 
 ## API Reference Documentation
 
 Documentation website coming soon. Meanwhile, summary for each of the method is provided.
 
-___
+---
 
 ## Change Log
 
 View Changelog [here](CHANGELOG.md).
 
-___
-
+---
 
 ## Issues
 
-No known issues as of 26 May 2025.
+No known issues as of 13 August 2025.
 
-
-___
+---
 
 ## Contributing guidelines:
 
@@ -48,14 +58,14 @@ If you wish to contribute to the project, please follow the general contribution
 -   Submit a pull request detailing the changes made
 -   Wait for your changes to be reviewed and merged
 
-___
+---
 
 ## License information
 
 This project is licensed under the MIT license, which can be found on the GitHub repository. The MIT license allows for
 the use, modification, and distribution of the code for both commercial and non-commercial purposes.
 
-___
+---
 
 ## Contact information
 

@@ -20,7 +20,7 @@ namespace TripleA.AnimationEvents
 			}
 			
 			if (m_eventFired) return;
-			Debug.LogWarning($"Event {eventName} not found on {gameObject.name}", gameObject);
+			Debug.LogWarning($"Event {eventName} not found on {gameObject.name}\nYou might have forgotten to add the event name in the list or there might be a typo.", gameObject);
 		}
 	}
 }
